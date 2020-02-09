@@ -16,5 +16,6 @@ public class NewClass {
     { 
          System.out.print("Hello World ");
          System.out.println("Ngu vc");
+         System.out.println("Mai moi sua duoc");
     } 
 } 
